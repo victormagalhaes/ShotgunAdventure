@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0f75a2174b42aa141811ae6cc87bc72b
+timeCreated: 1499797772
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bronic Shadow
+  fontNames:
+  - Bronic Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
